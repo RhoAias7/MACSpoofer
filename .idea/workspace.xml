@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="778d5788-b985-4541-8c42-00c879e96d0f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MACSpoofer.py" beforeDir="false" afterPath="$PROJECT_DIR$/MACSpoofer.py" afterDir="false" />
     </list>
@@ -23,6 +22,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="TEXT" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="SvnConfiguration">
@@ -43,22 +43,37 @@
       <option name="project" value="LOCAL" />
       <updated>1585072929040</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="MAC spoofer now takes cmd arguments from user">
+      <created>1585080418875</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1585080418876</updated>
+    </task>
+    <task id="LOCAL-00003" summary="MAC spoofer now takes cmd arguments from user">
+      <created>1585080528255</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1585080528255</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Began writing MAC Spoofer" />
-    <option name="LAST_COMMIT_MESSAGE" value="Began writing MAC Spoofer" />
+    <MESSAGE value="MAC spoofer now takes cmd arguments from user" />
+    <option name="LAST_COMMIT_MESSAGE" value="MAC spoofer now takes cmd arguments from user" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="110" y="27" width="769" height="639" key="CommitChangelistDialog2" timestamp="1585080418283">
+    <state x="110" y="27" width="769" height="639" key="CommitChangelistDialog2" timestamp="1585080527948">
       <screen x="0" y="27" width="1000" height="639" />
     </state>
-    <state x="110" y="27" width="769" height="639" key="CommitChangelistDialog2/0.27.1000.639@0.27.1000.639" timestamp="1585080418283" />
-    <state x="95" y="82" width="800" height="530" key="Vcs.Push.Dialog.v2" timestamp="1585080428625">
+    <state x="110" y="27" width="769" height="639" key="CommitChangelistDialog2/0.27.1000.639@0.27.1000.639" timestamp="1585080527948" />
+    <state x="95" y="82" width="800" height="530" key="Vcs.Push.Dialog.v2" timestamp="1585080539355">
       <screen x="0" y="27" width="1000" height="639" />
     </state>
-    <state x="95" y="82" width="800" height="530" key="Vcs.Push.Dialog.v2/0.27.1000.639@0.27.1000.639" timestamp="1585080428625" />
+    <state x="95" y="82" width="800" height="530" key="Vcs.Push.Dialog.v2/0.27.1000.639@0.27.1000.639" timestamp="1585080539355" />
     <state x="163" y="26" width="672" height="678" key="search.everywhere.popup" timestamp="1585079883945">
       <screen x="0" y="27" width="1000" height="639" />
     </state>
